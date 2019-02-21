@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SkillApp.iml" filepath="$PROJECT_DIR$/SkillApp.iml" />
+      <module fileurl="file://E:\development\Android\androidlocation\SkillApplication\SkillApp.iml" filepath="E:\development\Android\androidlocation\SkillApplication\SkillApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkillApplication.iml" filepath="$PROJECT_DIR$/SkillApplication.iml" />
       <module fileurl="file://D:\Andriod\project3.0\SkillApp\SkillApplication.iml" filepath="D:\Andriod\project3.0\SkillApp\SkillApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\Andriod\project3.0\SkillApp\app\app.iml" filepath="D:\Andriod\project3.0\SkillApp\app\app.iml" />
